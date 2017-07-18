@@ -1,0 +1,16 @@
+APP_ENV=local
+APP_DEBUG=true
+APP_KEY=5HxbJO8IsiNqSOHqe8vkwD0EyjO5T48U
+
+DB_HOST=localhost
+DB_DATABASE=magill
+DB_USERNAME=root
+DB_PASSWORD=123asd
+
+CACHE_DRIVER=file
+SESSION_DRIVER=file
+
+
+TIME_ZONE=Australia/Sydney
+
+
